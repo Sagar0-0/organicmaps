@@ -1,0 +1,19 @@
+- Nová data OSM k 14. březnu 2022
+- Zobrazení článků Wikipedie pro známá místa
+- Opraven vzhled voličů data při úpravách otevírací doby
+- Opraveny vzácné pády po stažení map
+- Výběr správného světlého/tmavého motivu CarPlay při spuštění
+- Automatické přepínání tmavého/světlého režimu CarPlay na základě systémového oznámení
+- Přidání data a času do záložek Moje poloha
+- Opraven pád při kliknutí na nabídku po skrytí rozhraní
+- Vyhledávání ekologických obchodů a restaurací!
+- Jasnější silnice v nočním režimu
+- Tmavší zemědělské plochy a parkoviště
+- Správné zobrazení parkovišť a parků nad areály nemocnic
+- Synchronizovaná viditelnost schodů a chodníků
+- Opravená viditelnost komunitního_centra
+- Přidán bubble_tea
+- Odstraněny průhledné kruhy z některých ikon
+- Opraveny ikony muzeí
+- Vylepšený algoritmus navigace
+- Vylepšeny překlady do arabštiny, rumunštiny a španělštiny
